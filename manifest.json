@@ -1,6 +1,6 @@
 {
-    "name": "ramowka",
-    "short_name": "ramowka",
+    "name": "radio_meteor_ramowka",
+    "short_name": "radio_meteor_ramowka",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
